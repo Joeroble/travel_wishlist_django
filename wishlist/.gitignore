@@ -4,3 +4,4 @@ __pyache__
 .idea
 db.sqlite3
 env
+cloud_sql_proxy.exe
